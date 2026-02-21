@@ -1,0 +1,5 @@
+difficulty=easy
+enemySpeed=3
+enemyMovementRange=50
+enemyHeight=30
+enemyWidth=15
